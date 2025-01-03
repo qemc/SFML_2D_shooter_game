@@ -1,3 +1,5 @@
+This code was written as a final project for OOP classes, at PUT, Automatic Control and Robotics field
+
 ## Gameplay
 
 ### Modes
